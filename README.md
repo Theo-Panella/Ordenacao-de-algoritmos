@@ -59,10 +59,4 @@ O algoritmo mais lento foi: Insertion Sort
 *   Java 8+
 *   Git/GitHub
 
-## 💡 Melhorias futuras
-
--   [ ] Adicionar mais algoritmos de ordenação (ex.: Heap Sort, Bubble Sort).
--   [ ] Permitir que o usuário informe manualmente os números ou leia de diferentes arquivos.
--   [ ] Gerar gráficos comparativos de desempenho.
--   [ ] Criar interface gráfica simples para visualização.
 
