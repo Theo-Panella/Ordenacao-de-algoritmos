@@ -40,7 +40,7 @@ Ordenacao-de-algoritmos/
     ```
 
 O programa lerá os números do arquivo `numeros.txt`, executará cada algoritmo de ordenação e exibirá o tempo de execução de cada um.
-OBS: Gera um arquivo para cada tipo de ordenação para prova viva da ordenação
+OBS: Gera um arquivo para cada tipo de algoritmo, sendo prova viva da ordenação em si
 
 ## 📊 Exemplo de saída
 
